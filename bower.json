@@ -1,0 +1,17 @@
+{
+  "name": "bem-components-bench",
+  "version": "0.0.1",
+  "authors": [
+    "Vladimir Varankin <varankinv@yandex-team.ru> (https://staff.yandex-team.ru/varankinv)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "libs",
+    "tests"
+  ],
+  "dependencies": {
+    "bem-core": "~2.6.0",
+    "bem-components": "~2.1.0"
+  }
+}
