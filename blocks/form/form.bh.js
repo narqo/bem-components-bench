@@ -15,7 +15,8 @@ module.exports = function(bh) {
                         js : true
                     },
                     text : 'Очистить'
-                }
+                },
+                { elem : 'timer', tag : 'span' }
             ].concat(content), true);
     });
 };
